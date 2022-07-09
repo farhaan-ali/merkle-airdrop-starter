@@ -1,6 +1,6 @@
 import fs from "fs"; // Filesystem
 import path from "path"; // Path routing
-import Generator from "./generator"; // Generator
+import Generator from "./generatorProofs"; // Generator
 import { logger } from "./utils/logger"; // Logging
 
 // Config file path
